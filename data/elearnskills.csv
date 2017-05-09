@@ -1,0 +1,17 @@
+skill,id,skill_value,group_level,group_type
+Photoshop,1,55,advance,design
+Illustrator,2,45,proficient,design
+InDesign,3,50,advance,design
+Acrobat,4,60,advance,design
+After Effects,5,40,basics,design
+Captivate,6,55,proficient,elearning
+Word,7,70,advance,office
+Excel,8,40,basics,office
+PowerPoint,9,60,advance,office
+Articulate Studio,10,70,advance,elearning
+Storyline,11,40,basics,elearning
+LMS,12,65,proficient,elearning
+CMS,13,55,proficient,elearning
+Video,14,45,basics,other
+Audio,15,60,proficient,other
+VTML,16,40,basics,other

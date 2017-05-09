@@ -1,2 +1,2 @@
 # website
-Copy of the filse for my website found at http://abelpdx.com/
+Copy of the files for my website found at http://abelpdx.com/

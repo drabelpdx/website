@@ -211,7 +211,6 @@ figure.effect:hover p {
 }
 
 
-
 /* Custom CSS styles here */
 
 body {
@@ -271,15 +270,12 @@ a {
     height: 100px;
     margin-left: 20px;
     margin-bottom: 20px;
-
-
 }
 
 .this {
   background: none repeat scroll 0 0 rgba(112, 128, 144, 1);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-
     margin: 0;
 }
 
